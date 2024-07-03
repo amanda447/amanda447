@@ -2,7 +2,7 @@
 
 Meu nome é Amanda Vitória!
 
--Estou estudando na alura.
+-Estou estudando na {alura}(https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScrip.
 
@@ -16,3 +16,5 @@ Gmail: amanda.gomes.silva27@escola.pr.gov.br
 ou
 
 Insta: @vitoria_amanda
+
+![](https://media.tenor.com/4uKKrj5fSPAAAAAM/hello-anxiety.gif)
