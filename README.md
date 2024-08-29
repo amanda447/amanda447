@@ -29,17 +29,17 @@ Contato: (46) 999227927
 
 Endereço: Rua Hilda Harnisch - Bairro São Domingos, Manfrinópolis, Paraná, Brasil
 
-OBJETIVO
+### OBJETIVO
 
 -Atuar na área dentística.
 
-FORMAÇÃO ACADÊMICA
+### FORMAÇÃO ACADÊMICA
 
 -Universidade de São Paulo 
 
 -Administração e Marketing
 
-CURSOS COMPLEMENTARES
+### CURSOS COMPLEMENTARES
 
 -Curso de Data Discovery
 
@@ -47,7 +47,7 @@ CURSOS COMPLEMENTARES
 
 -Aula de inglês
 
-EXPERIÊNCIA
+### EXPERIÊNCIA
 
 -Especializado em cirurgia buco-maxilo-facial;
 
